@@ -1,0 +1,27 @@
+.list{
+  list-style: none;
+  display: flex;
+  padding: 0;
+  gap: 50px;
+  align-items: center;
+  justify-content: center;
+}
+
+
+.btn{
+  font-size: 15px;
+  font-weight: bold;
+  padding: 5px;
+  width: 80px;
+  margin-top: 50px;
+  cursor: pointer;
+  border-radius: 7px;
+  border: none;
+  background-color: #e2e0e0;
+  
+}
+.btn:hover, 
+.btn:focus {
+  background-color: rgb(106 167 207);
+  border: 1px solid rgb(43, 95, 171);
+}

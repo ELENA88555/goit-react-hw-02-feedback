@@ -1,0 +1,23 @@
+.itemList{
+  list-style: none;
+}
+
+.nameOption{
+  font-size: 16px;
+font-weight: bold;
+  font-style: normal;
+
+}
+
+
+.list {
+  display: block;
+}
+
+.value {
+
+  margin-left: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  color: rgb(106 167 207);
+}
